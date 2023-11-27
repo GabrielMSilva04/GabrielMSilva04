@@ -1,3 +1,10 @@
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://readme-stats-nine-eta.vercel.app/api?username=GabrielMSilva04&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://readme-stats-nine-eta.vercel.app/api/top-langs/?username=GabrielMSilva04" />
+</a>
+
 
 [![Anurag's GitHub stats](https://readme-stats-nine-eta.vercel.app/api?username=GabrielMSilva04&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://readme-stats-nine-eta.vercel.app/api/top-langs/?username=GabrielMSilva04)](https://github.com/anuraghazra/github-readme-stats)
