@@ -1,8 +1,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://readme-stats-nine-eta.vercel.app/api?username=GabrielMSilva04&show_icons=true" />
+  <img align="center" src="https://readme-stats-nine-eta.vercel.app/api?username=GabrielMSilva04&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://readme-stats-nine-eta.vercel.app/api/top-langs/?username=GabrielMSilva04" />
+  <img align="center" src="https://readme-stats-nine-eta.vercel.app/api/top-langs/?username=GabrielMSilva04&theme=transparent" />
 </a>
 
 <!--
