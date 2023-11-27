@@ -5,9 +5,6 @@
   <img align="center" src="https://readme-stats-nine-eta.vercel.app/api/top-langs/?username=GabrielMSilva04" />
 </a>
 
-
-[![Anurag's GitHub stats](https://readme-stats-nine-eta.vercel.app/api?username=GabrielMSilva04&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://readme-stats-nine-eta.vercel.app/api/top-langs/?username=GabrielMSilva04)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **GabrielMSilva04/GabrielMSilva04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
