@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMSilva04&show_icons=true&theme=dark&count_private=true)](https://github.com/GabrielMSilva04/vercel)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielMSilva04&show_icons=true&theme=dark)](https://github.com/GabrielMSilva04/vercel)
 
 <!--
 **GabrielMSilva04/GabrielMSilva04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
