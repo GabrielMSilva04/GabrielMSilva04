@@ -2,7 +2,7 @@
   <img align="center" src="https://readme-stats-nine-eta.vercel.app/api?username=GabrielMSilva04&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://readme-stats-nine-eta.vercel.app/api/top-langs/?username=GabrielMSilva04&theme=dark#gh-dark-mode-only&layout=compact" />
+  <img align="center" src="https://readme-stats-nine-eta.vercel.app/api/top-langs/?username=GabrielMSilva04&theme=dark&layout=compact" />
 </a>
 
 <!--
