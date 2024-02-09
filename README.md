@@ -1,5 +1,5 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://readme-stats-nine-eta.vercel.app/api?username=GabrielMSilva04&show_icons=true&theme=dark&hide=issues&rank_icon=github" />
+  <img align="center" src="https://stats-readme-wheat.vercel.app/api?username=GabrielMSilva04&show_icons=true&theme=dark&hide=issues&rank_icon=github" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://readme-stats-nine-eta.vercel.app/api/top-langs/?username=GabrielMSilva04&theme=dark&layout=compact" />
