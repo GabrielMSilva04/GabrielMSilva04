@@ -1,5 +1,5 @@
 
-[![Anurag's GitHub stats](https://github-readme-stats-liart-phi-68.vercel.app//api?username=GabrielMSilva04&show_icons=true&theme=dark&hide=issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-liart-phi-68.vercel.app//api?username=GabrielMSilva04&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats-liart-phi-68.vercel.app//api/top-langs/?username=GabrielMSilva04&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
