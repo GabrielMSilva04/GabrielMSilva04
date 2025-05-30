@@ -28,4 +28,6 @@ I am currently finishing my Informatics Engineering degree at Universidade de Av
 
 <a href="http://www.github.com/GabrielMSilva04"><img src="https://github-readme-stats-liart-phi-68.vercel.app/api?username=GabrielMSilva04&show_icons=true&theme=dark" alt="GabrielMSilva04's GitHub stats" /></a>
 
+<b>My Most Used Languages</b>
+
 <a href="https://github.com/GabrielMSilva04" align="left"><img src="https://github-readme-stats-liart-phi-68.vercel.app//api/top-langs/?username=GabrielMSilva04&theme=dark&layout=compact" alt="Top Languages" /></a>
